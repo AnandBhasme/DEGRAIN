@@ -32,4 +32,11 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Ignore specific Python files
+Scripts/Image_Restoration.ipynb
+Scripts/restore.py
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/ 
