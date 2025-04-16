@@ -1,0 +1,48 @@
+Image Quality Metrics Summary
+===========================
+
+Image: wiener_exponential_noise
+-------------------------------
+MSE: 4118.501960
+PSNR: 11.983411
+NMSE: 0.283408
+NAE: 0.464740
+SSIM: 0.027883
+UIQI: 0.529171
+
+Image: wiener_gaussian_noise
+----------------------------
+MSE: 11100.872147
+PSNR: 7.677233
+NMSE: 0.763888
+NAE: 0.805867
+SSIM: 0.021162
+UIQI: 0.218046
+
+Image: wiener_motion_blur
+-------------------------
+MSE: 347.749907
+PSNR: 22.718133
+NMSE: 0.023930
+NAE: 0.075099
+SSIM: 0.741232
+UIQI: 0.933616
+
+Image: wiener_rayleigh_noise
+----------------------------
+MSE: 3100.258827
+PSNR: 13.216824
+NMSE: 0.213339
+NAE: 0.402137
+SSIM: 0.047688
+UIQI: 0.637623
+
+Image: wiener_salt_pepper_noise
+-------------------------------
+MSE: 4927.952079
+PSNR: 11.204139
+NMSE: 0.339109
+NAE: 0.475319
+SSIM: 0.015702
+UIQI: 0.429646
+

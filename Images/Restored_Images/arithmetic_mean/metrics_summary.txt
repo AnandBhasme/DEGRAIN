@@ -1,0 +1,48 @@
+Image Quality Metrics Summary
+===========================
+
+Image: arithmetic_mean_exponential_noise
+----------------------------------------
+MSE: 611.524525
+PSNR: 20.266665
+NMSE: 0.042081
+NAE: 0.216935
+SSIM: 0.657334
+UIQI: 0.970461
+
+Image: arithmetic_mean_gaussian_noise
+-------------------------------------
+MSE: 7206.320086
+PSNR: 9.553668
+NMSE: 0.495892
+NAE: 0.726970
+SSIM: 0.266851
+UIQI: 0.644254
+
+Image: arithmetic_mean_motion_blur
+----------------------------------
+MSE: 53.178505
+PSNR: 30.873442
+NMSE: 0.003659
+NAE: 0.028328
+SSIM: 0.887924
+UIQI: 0.989688
+
+Image: arithmetic_mean_rayleigh_noise
+-------------------------------------
+MSE: 937.588842
+PSNR: 18.410679
+NMSE: 0.064519
+NAE: 0.275818
+SSIM: 0.755045
+UIQI: 0.964036
+
+Image: arithmetic_mean_salt_pepper_noise
+----------------------------------------
+MSE: 117.678048
+PSNR: 27.423849
+NMSE: 0.008098
+NAE: 0.062583
+SSIM: 0.504563
+UIQI: 0.976900
+

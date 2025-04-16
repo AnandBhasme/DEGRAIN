@@ -1,0 +1,48 @@
+Image Quality Metrics Summary
+===========================
+
+Image: tvm_exponential_noise
+----------------------------
+MSE: 5242.423216
+PSNR: 10.935483
+NMSE: 0.360749
+NAE: 0.587226
+SSIM: 0.030894
+UIQI: 0.463855
+
+Image: tvm_gaussian_noise
+-------------------------
+MSE: 10781.880998
+PSNR: 7.803858
+NMSE: 0.741936
+NAE: 0.779653
+SSIM: 0.018461
+UIQI: 0.219942
+
+Image: tvm_motion_blur
+----------------------
+MSE: 4038.677050
+PSNR: 12.068412
+NMSE: 0.277915
+NAE: 0.551224
+SSIM: 0.023371
+UIQI: 0.522126
+
+Image: tvm_rayleigh_noise
+-------------------------
+MSE: 5252.280508
+PSNR: 10.927324
+NMSE: 0.361427
+NAE: 0.580575
+SSIM: 0.032650
+UIQI: 0.474607
+
+Image: tvm_salt_pepper_noise
+----------------------------
+MSE: 4562.443718
+PSNR: 11.538828
+NMSE: 0.313957
+NAE: 0.566634
+SSIM: 0.033500
+UIQI: 0.487859
+

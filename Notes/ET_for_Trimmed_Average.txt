@@ -1,0 +1,43 @@
+Starting processing of 5 images at 23:51:45
+
+Processing image 1/5: exponential_noise.jpg
+Applying trimmed average filter...
+Channel 1/3: 100.0% complete
+Channel 2/3: 100.0% complete
+Channel 3/3: 100.0% complete
+Completed exponential_noise.jpg in 236.77 seconds
+Estimated time remaining: 15.8 minutes
+
+Processing image 2/5: gaussian_noise.jpg
+Applying trimmed average filter...
+Channel 1/3: 100.0% complete
+Channel 2/3: 100.0% complete
+Channel 3/3: 100.0% complete
+Completed gaussian_noise.jpg in 237.04 seconds
+Estimated time remaining: 5.9 minutes
+
+Processing image 3/5: motion_blur.jpg
+Applying trimmed average filter...
+Channel 1/3: 100.0% complete
+Channel 2/3: 100.0% complete
+Channel 3/3: 100.0% complete
+Completed motion_blur.jpg in 541.06 seconds
+Estimated time remaining: 6.0 minutes
+
+Processing image 4/5: rayleigh_noise.jpg
+Applying trimmed average filter...
+Channel 1/3: 100.0% complete
+Channel 2/3: 100.0% complete
+Channel 3/3: 100.0% complete
+Completed rayleigh_noise.jpg in 237.75 seconds
+Estimated time remaining: 1.0 minutes
+
+Processing image 5/5: salt_pepper_noise.jpg
+Applying trimmed average filter...
+Channel 1/3: 100.0% complete
+Channel 2/3: 100.0% complete
+Channel 3/3: 100.0% complete
+Completed salt_pepper_noise.jpg in 238.11 seconds
+
+All 5 images processed successfully!
+Completed at 00:16:36
