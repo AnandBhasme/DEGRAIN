@@ -1,5 +1,7 @@
 # DEGRAIN: A Comparative Study on the Restoration of Degraded Digital Images Under Various Noise Models
 
+Paper Link: https://ieeexplore.ieee.org/document/11210656
+
 ## Overview
 This project implements and compares various image restoration techniques for different types of image degradation. The goal is to analyze the effectiveness of different restoration methods on various noise models and provide quantitative metrics for comparison.
 
